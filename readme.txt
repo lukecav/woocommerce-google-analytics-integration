@@ -1,7 +1,7 @@
 === WooCommerce Google Analytics Integration ===
 Contributors: woothemes, claudiosanches, bor0
 Tags: woocommerce, google analytics
-Requires at least: 3.8
+Requires at least: 4.6
 Tested up to: 4.8.1
 Stable tag: 1.4.3
 Requires PHP: 5.6
